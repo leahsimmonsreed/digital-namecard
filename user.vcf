@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Simmons-Reed;Leah;;;
-FN: Leah Simmons-Reed 
+N:Copeland;Mark;;;
+FN: Mark Copeland 
 ORG:SmartMinds Enterprise;
 TITLE:
-EMAIL;type=INTERNET;type=WORK;type=pref:leah@smartminds.io
-TEL;type=WORK;type=VOICE:+61 412 279 664
+EMAIL;type=INTERNET;type=WORK;type=pref:mark@smartminds.io
+TEL;type=WORK;type=VOICE:+62 812 3856 7405
 item1.ADR;type=WORK;type=pref:;;Tallinn, Estonia
 item1.X-ABADR:sg
-item2.URL;type=pref:smartminds.io
+item2.URL;type=pref:earthledger.one
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
